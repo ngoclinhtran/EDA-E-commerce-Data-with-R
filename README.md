@@ -15,3 +15,10 @@
 This project used R language to clean the dataset, perform EDA on the dataset, and visualize the results. The project was divided into 2 parts: 1. Data cleaning using R, 2. EDA using R.
 
 **1. Data Cleaning using R** 
+- Data importing, data types clasification
+- Rename variables and summary data
+- Deal with missing values and invalid values
+- Add customized variables
+- Manage duplicate data
+- Manage outliers in the dataset
+- Plausibility check for *Factor* and *Date-time* variables
