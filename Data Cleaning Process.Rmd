@@ -16,7 +16,7 @@ library(tidyverse)
 
 ## Data context
 
-- Case company: an online retailer based in the UK. The business is fully e-commerce business without any physical store.
+- Company: an online retailer based in the UK. The business is fully e-commerce business without any physical store.
 - Products: all-occasions gifts
 - Customers: mainly wholesalers
 - Data period: **1st of Dec, 2010 - 9nd of Dec, 2011**
